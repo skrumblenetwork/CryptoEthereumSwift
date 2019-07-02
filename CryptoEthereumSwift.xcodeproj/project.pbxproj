@@ -482,10 +482,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/Carthage/Build/iOS",
 				);
-				HEADER_SEARCH_PATHS = (
-					"$(SRCROOT)/Libraries/openssl/include",
-					"$(SRCROOT)/Libraries/secp256k1/include",
-				);
+				HEADER_SEARCH_PATHS = "";
 				INFOPLIST_FILE = "$(SRCROOT)/CryptoEthereumSwift/SupportingFiles/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -494,10 +491,7 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				LIBRARY_SEARCH_PATHS = (
-					"$(SRCROOT)/Libraries/openssl/lib",
-					"$(SRCROOT)/Libraries/secp256k1/lib",
-				);
+				LIBRARY_SEARCH_PATHS = "";
 				MODULEMAP_FILE = "$(SRCROOT)/CryptoEthereumSwift/SupportingFiles/CryptoEthereumSwift.modulemap";
 				PRODUCT_BUNDLE_IDENTIFIER = com.yuzushioh.CryptoEthereumSwift;
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -525,10 +519,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/Carthage/Build/iOS",
 				);
-				HEADER_SEARCH_PATHS = (
-					"$(SRCROOT)/Libraries/openssl/include",
-					"$(SRCROOT)/Libraries/secp256k1/include",
-				);
+				HEADER_SEARCH_PATHS = "";
 				INFOPLIST_FILE = "$(SRCROOT)/CryptoEthereumSwift/SupportingFiles/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -537,10 +528,7 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				LIBRARY_SEARCH_PATHS = (
-					"$(SRCROOT)/Libraries/openssl/lib",
-					"$(SRCROOT)/Libraries/secp256k1/lib",
-				);
+				LIBRARY_SEARCH_PATHS = "";
 				MODULEMAP_FILE = "$(SRCROOT)/CryptoEthereumSwift/SupportingFiles/CryptoEthereumSwift.modulemap";
 				PRODUCT_BUNDLE_IDENTIFIER = com.yuzushioh.CryptoEthereumSwift;
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";

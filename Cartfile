@@ -1,1 +1,3 @@
 github "krzyzanowskim/CryptoSwift"
+github "krzyzanowskim/OpenSSL"
+github "Boilertalk/secp256k1.swift"

@@ -1,8 +1,5 @@
 #import "Internal.h"
-#import <openssl/sha.h>
-#import <openssl/ripemd.h>
-#import <openssl/hmac.h>
-#import <openssl/ec.h>
+#import <OpenSSL/OpenSSL.h>
 
 @implementation CryptoHash
 
